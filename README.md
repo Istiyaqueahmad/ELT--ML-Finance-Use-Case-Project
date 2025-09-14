@@ -1,6 +1,6 @@
 # ELT--ML-Finance-Use-Case-Project
 Run an integrated ELT and ML pipeline on Stripe data in Airflow
-===============================================================
+==============================================================
 
 This repository contains the DAG code used in the [Financial ELT and ML pipeline use case example](https://docs.astronomer.io/learn/use-case-elt-ml-finance). 
 
